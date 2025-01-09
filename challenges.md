@@ -1,5 +1,3 @@
-Voici le document reformaté :
-
 # Challenges quotidiens pour débutants en programmation
 
 ## Niveau 1 - Bases
